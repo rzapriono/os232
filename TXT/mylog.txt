@@ -1,3 +1,14 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W00 30 L01 SCELE/Discord related
+ZCZC W00 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 20 L10 Assignment #00
+ZCZC W00 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related (Class on Tuesday)
+ZCZC W00 15 L04 GitHub Pages related
+ZCZC W00 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related (Class on Thursday)
+ZCZC W00 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W00 120 L05 Quiz related including studying
+ZCZC W00 15 L41 TXT/mylog.txt related.
