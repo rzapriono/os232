@@ -12,3 +12,16 @@ ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related (Class on Thursday)
 ZCZC W00 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
 ZCZC W00 120 L05 Quiz related including studying
 ZCZC W00 15 L41 TXT/mylog.txt related.
+ZCZC W01 15 L01 SCELE/Discord related
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related (Class on Tuesday)
+ZCZC W01 15 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W01 60 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related (Class on Thursday)
+ZCZC W01 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W01 90 L05 Quiz related including studying
+ZCZC W01 30 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 30 L11 Assignment #01
+ZCZC W01 20 L01 SCELE/Discord related
+ZCZC W01 30 L41 TXT/mylog.txt related.
