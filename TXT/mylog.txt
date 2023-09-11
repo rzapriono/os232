@@ -25,3 +25,8 @@ ZCZC W01 20 L03 GitHub and git related, including commit, push, pull
 ZCZC W01 30 L11 Assignment #01
 ZCZC W01 20 L01 SCELE/Discord related
 ZCZC W01 30 L41 TXT/mylog.txt related.
+ZCZC W01 120 L80 Waching: Movie, YouTube, TV, Netflix, etc. (watching anime)
+ZCZC W01 20 L64 Helping a friend (OS related problem)
+ZCZC W01 120 L88 Workout/Sport/Exercise/ETC (fun football with csui)
+ZCZC W01 30 L87 Breakfast/Lunch/Dinner/Snake (pecel ayam dinner with friends)
+ZCZC W01 20 L41 TXT/mylog.txt related.
