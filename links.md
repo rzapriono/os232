@@ -10,5 +10,12 @@ This website provides a concise overview of introductory to OS and its topics. S
 * [60 Linux Commands you NEED to know (in 10 minutes)](https://www.youtube.com/watch?v=gd7BXuUQ91w) --- 
 This video straight up explains the top 60 linux commands (according to the vid creator) in just 10 minutes.
 Watching this video might be more interesting to do than reading a whole page or website with more or less the same content.
+
+* [Linux File permissions and Ownership Explained)](https://www.youtube.com/watch?v=k1yzI7c6Fzk) ---
+This video explains linux file permissions and its ownership. The creator also provides a linux handbook for us to read. Might come handy when you want to do something about the topic.
+
+* [Vim Tutorial for Beginners](https://www.youtube.com/watch?v=RZ4p-saaQkc) ---
+Explains Vim clearly and thoroughly for beginners. This video could help to understand Vim so that we are able to use it conveniently.
+
 <br>
 <hr>
