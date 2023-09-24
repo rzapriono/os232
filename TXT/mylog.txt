@@ -48,3 +48,18 @@ ZCZC W02 25 L12 Assignment #02
 ZCZC W02 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 120 L73 Gaming including Board Games. (Playing PES 2024)
 ZCZC W02 30 L41 TXT/mylog.txt related.
+ZCZC W03 15 L01 SCELE/Discord related
+ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related (Class on Tuesday)
+ZCZC W03 30 L09 Assignment in General (Reading assignment)
+ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related (Zoom on Thursday)
+ZCZC W03 150 L70 Studying for other courses. (for Aljabar Linear quiz)
+ZCZC W03 90 L84 Relax, Rest, Nap, and Sleep (Had a very good nap on a hot day)
+ZCZC W03 45 L05 Quiz related including studying
+ZCZC W03 30 L01 SCELE/Discord related
+ZCZC W03 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 120 L73 Gaming including Board Games (Playing PES 2024)
+ZCZC W03 60 L13 Assignment #03
+ZCZC W03 15 L22 Linux CLI including tar
+ZCZC W03 20 L25 C-language including Make.
+ZCZC W03 20 L43 TXT/myrank.txt related, including peer review.
+ZCZC W03 30 L41 TXT/mylog.txt related.

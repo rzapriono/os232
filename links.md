@@ -17,5 +17,11 @@ This video explains linux file permissions and its ownership. The creator also p
 * [Vim Tutorial for Beginners](https://www.youtube.com/watch?v=RZ4p-saaQkc) ---
 Explains Vim clearly and thoroughly for beginners. This video could help to understand Vim so that we are able to use it conveniently.
 
+* [File System Concept](https://www.youtube.com/watch?v=mzUyMy7Ihk0) ---
+A video made by Udacity which explains the concept of file system in a nutshell. It takes only 2 minutes to watch the video.  
+
+* [Mounting and Unmounting Disks/Partitions](https://www.youtube.com/watch?v=F-a_BBAGfkE) ---
+This video explains kinds of mounting and how it works. There's sections on the video as well so we can just skip to the part we want/need to watch.
+
 <br>
 <hr>
