@@ -1,17 +1,51 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
-ZCZC W00 30 L01 SCELE/Discord related
-ZCZC W00 10 L03 GitHub and git related, including commit, push, pull
-ZCZC W00 20 L10 Assignment #00
-ZCZC W00 15 L06 References/Books/Documents/Browsing/GSGS related
-ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related (Class on Tuesday)
-ZCZC W00 15 L04 GitHub Pages related
-ZCZC W00 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
-ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related (Class on Thursday)
-ZCZC W00 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
-ZCZC W00 120 L05 Quiz related including studying
-ZCZC W00 15 L41 TXT/mylog.txt related.
+ZCZC W04 20 L01 SCELE/Discord related
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related (Class on Tuesday)
+ZCZC W04 90 L84 Relax, Rest, Nap, and Sleep (Doze off on tuesday afternoon)
+ZCZC W04 60 L98 Else that is not related with this Operating Systems class (Calling an old friend of mine).
+ZCZC W04 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 45 L09 Assignment in General (Reading assignment)
+ZCZC W04 60 L70 Studying for other courses (Demo PBP).
+ZCZC W04 45 L05 Quiz related including studying
+ZCZC W04 15 L01 SCELE/Discord related
+ZCZC W04 30 L22 Linux CLI including tar
+ZCZC W04 30 L25 C-language including Make.
+ZCZC W04 20 L14 Assignment #04
+ZCZC W04 20 L43 TXT/myrank.txt related, including peer review.
+ZCZC W04 25 L41 TXT/mylog.txt related.
+ZCZC W03 15 L01 SCELE/Discord related
+ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related (Class on Tuesday)
+ZCZC W03 30 L09 Assignment in General (Reading assignment)
+ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related (Zoom on Thursday)
+ZCZC W03 150 L70 Studying for other courses. (for Aljabar Linear quiz)
+ZCZC W03 90 L84 Relax, Rest, Nap, and Sleep (Had a very good nap on a hot day)
+ZCZC W03 45 L05 Quiz related including studying
+ZCZC W03 30 L01 SCELE/Discord related
+ZCZC W03 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 120 L73 Gaming including Board Games (Playing PES 2024)
+ZCZC W03 60 L13 Assignment #03
+ZCZC W03 15 L22 Linux CLI including tar
+ZCZC W03 20 L25 C-language including Make.
+ZCZC W03 20 L43 TXT/myrank.txt related, including peer review.
+ZCZC W03 30 L41 TXT/mylog.txt related.
+ZCZC W02 15 L01 SCELE/Discord related
+ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related (Class on Tuesday)
+ZCZC W02 15 L98 Else that is not related with this Operating Systems class. (change my motorcycle engine oil)
+ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related (Class on Thursday)
+ZCZC W02 40 L21 Trying something (trying to change file permission for two different user)
+ZCZC W02 30 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02 60 L05 Quiz related including studying
+ZCZC W02 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W02 30 L01 SCELE/Discord related
+ZCZC W02 20 L43 TXT/myrank.txt related, including peer review.
+ZCZC W02 30 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W02 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 25 L12 Assignment #02
+ZCZC W02 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W02 120 L73 Gaming including Board Games. (Playing PES 2024)
+ZCZC W02 30 L41 TXT/mylog.txt related.
 ZCZC W01 15 L01 SCELE/Discord related
 ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related (Class on Tuesday)
 ZCZC W01 15 L61 Install/Reinstall/Restore/Backup Virtual Box
@@ -32,34 +66,14 @@ ZCZC W01 30 L87 Breakfast/Lunch/Dinner/Snake (pecel ayam dinner with friends)
 ZCZC W01 20 L41 TXT/mylog.txt related.
 ZCZC W01 15 L04 GitHub Pages related
 ZCZC W01 10 L41 TXT/mylog.txt related.
-ZCZC W02 15 L01 SCELE/Discord related
-ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related (Class on Tuesday)
-ZCZC W02 15 L98 Else that is not related with this Operating Systems class. (change my motorcycle engine oil)
-ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related (Class on Thursday)
-ZCZC W02 40 L21 Trying something (trying to change file permission for two different user)
-ZCZC W02 30 L26 GnuPG, key-gen, encrypt/decrypt.
-ZCZC W02 60 L05 Quiz related including studying
-ZCZC W02 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
-ZCZC W02 30 L01 SCELE/Discord related
-ZCZC W02 20 L43 TXT/myrank.txt related, including peer review.
-ZCZC W02 30 L44 TXT/myscript.sh related. See also L25, L24.
-ZCZC W02 60 L06 References/Books/Documents/Browsing/GSGS related
-ZCZC W02 25 L12 Assignment #02
-ZCZC W02 10 L03 GitHub and git related, including commit, push, pull
-ZCZC W02 120 L73 Gaming including Board Games. (Playing PES 2024)
-ZCZC W02 30 L41 TXT/mylog.txt related.
-ZCZC W03 15 L01 SCELE/Discord related
-ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related (Class on Tuesday)
-ZCZC W03 30 L09 Assignment in General (Reading assignment)
-ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related (Zoom on Thursday)
-ZCZC W03 150 L70 Studying for other courses. (for Aljabar Linear quiz)
-ZCZC W03 90 L84 Relax, Rest, Nap, and Sleep (Had a very good nap on a hot day)
-ZCZC W03 45 L05 Quiz related including studying
-ZCZC W03 30 L01 SCELE/Discord related
-ZCZC W03 15 L06 References/Books/Documents/Browsing/GSGS related
-ZCZC W03 120 L73 Gaming including Board Games (Playing PES 2024)
-ZCZC W03 60 L13 Assignment #03
-ZCZC W03 15 L22 Linux CLI including tar
-ZCZC W03 20 L25 C-language including Make.
-ZCZC W03 20 L43 TXT/myrank.txt related, including peer review.
-ZCZC W03 30 L41 TXT/mylog.txt related.
+ZCZC W00 30 L01 SCELE/Discord related
+ZCZC W00 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 20 L10 Assignment #00
+ZCZC W00 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related (Class on Tuesday)
+ZCZC W00 15 L04 GitHub Pages related
+ZCZC W00 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related (Class on Thursday)
+ZCZC W00 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W00 120 L05 Quiz related including studying
+ZCZC W00 15 L41 TXT/mylog.txt related.

@@ -23,5 +23,11 @@ A video made by Udacity which explains the concept of file system in a nutshell.
 * [Mounting and Unmounting Disks/Partitions](https://www.youtube.com/watch?v=F-a_BBAGfkE) ---
 This video explains kinds of mounting and how it works. There's sections on the video as well so we can just skip to the part we want/need to watch.
 
+* [How to Create a Makefile (C/C++)? | Makefile Tutorial | Linux](https://www.youtube.com/watch?v=O5mG8H36V44) ---
+This video explains how to make a simple Makefile. Don't forget to keep indentation in mind when making one!
+
+* [C-pointers by Programiz](https://www.programiz.com/c-programming/c-pointers) ---
+The website explains about C pointer clearly and briefly enough. It also provides an online C compiler that let us to do demo instantly on the website.
+
 <br>
 <hr>
