@@ -1,6 +1,20 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W05 10 L01 SCELE/Discord related
+ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related (Async class on thursday)
+ZCZC W05 30 L09 Assignment in General (Reading assignment)
+ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related (Class on Tuesday)
+ZCZC W05 45 L05 Quiz related including studying
+ZCZC W05 120 L70 Studying for other courses (Quiz MPPI).
+ZCZC W05 40 L15 Assignment #05
+ZCZC W05 20 L01 SCELE/Discord related
+ZCZC W05 60 L98 Else that is not related with this Operating Systems class (Braces control to the dentist).
+ZCZC W05 25 L22 Linux CLI including tar
+ZCZC W05 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W05 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 15 L43 TXT/myrank.txt related, including peer review.
+ZCZC W05 30 L41 TXT/mylog.txt related.
 ZCZC W04 20 L01 SCELE/Discord related
 ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related (Class on Tuesday)
 ZCZC W04 90 L84 Relax, Rest, Nap, and Sleep (Doze off on tuesday afternoon)

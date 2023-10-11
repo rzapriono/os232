@@ -29,5 +29,11 @@ This video explains how to make a simple Makefile. Don't forget to keep indentat
 * [C-pointers by Programiz](https://www.programiz.com/c-programming/c-pointers) ---
 The website explains about C pointer clearly and briefly enough. It also provides an online C compiler that let us to do demo instantly on the website.
 
+* [Segmented, Paged, and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s) ---
+This video explains segmented and paged virtual memory in just 8 minutes, though the content is indeed very general. 
+
+* [Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm) ---
+Incase you need to read more material about virtual memory for whatever the reason, then here it is.
+
 <br>
 <hr>
