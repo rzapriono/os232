@@ -35,5 +35,11 @@ This video explains segmented and paged virtual memory in just 8 minutes, though
 * [Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm) ---
 Incase you need to read more material about virtual memory for whatever the reason, then here it is.
 
+* [Process Fork Example](https://www.youtube.com/watch?v=WcsZvdlLkPw) ---
+This video gives an example of fork() function and also explains about it in only 6 minutes.
+
+* [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) ---
+This website explains how to copy from remote to local system and vice versa. Really comes in handy for doing weekly popquizzes.
+
 <br>
 <hr>

@@ -1,6 +1,18 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W06 20 L01 SCELE/Discord related
+ZCZC W06 15 L16 Assignment #06
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related (Class on tuesday)
+ZCZC W06 45 L16 Assignment #06
+ZCZC W06 30 L09 Assignment in General (Reading assignment)
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related (Class on thursday)
+ZCZC W06 120 L70 Studying for other courses (Quiz Alin).
+ZCZC W06 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 75 L05 Quiz related including studying
+ZCZC W06 45 L22 Linux CLI including tar, etc.
+ZCZC W06 15 L43 TXT/myrank.txt related, including peer review.
+ZCZC W06 20 L41 TXT/mylog.txt related.
 ZCZC W05 10 L01 SCELE/Discord related
 ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related (Async class on thursday)
 ZCZC W05 30 L09 Assignment in General (Reading assignment)
