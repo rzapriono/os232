@@ -1,6 +1,20 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W07 10 L01 SCELE/Discord related
+ZCZC W07 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related (Class on tuesday)
+ZCZC W07 120 L73 Gaming including Board Games (Efootball).
+ZCZC W07 30 L09 Assignment in General (Reading assignment)
+ZCZC W07 10 L01 SCELE/Discord related
+ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related (Class on thursday)
+ZCZC W07 120 L98 Else that is not related with this Operating Systems class (Rearrange my bedroom furniture). 
+ZCZC W07 45 L17 Assignment #07
+ZCZC W07 30 L22 Linux CLI including tar, etc.
+ZCZC W07 120 L70 Studying for other courses (Quiz Alin).
+ZCZC W07 90 L05 Quiz related including studying
+ZCZC W07 20 L43 TXT/myrank.txt related, including peer review.
+ZCZC W07 15 L41 TXT/mylog.txt related.
 ZCZC W06 20 L01 SCELE/Discord related
 ZCZC W06 15 L16 Assignment #06
 ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related (Class on tuesday)

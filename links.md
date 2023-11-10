@@ -41,5 +41,11 @@ This video gives an example of fork() function and also explains about it in onl
 * [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) ---
 This website explains how to copy from remote to local system and vice versa. Really comes in handy for doing weekly popquizzes.
 
+* [What is Semaphore? Counting, Binary Types with Example](https://www.guru99.com/semaphore-in-operating-system.html) ---
+This website explains semaphores. It also explains how wait and signal operation works. There's also difference between semaphore and mutex. Easy to read. 
+
+* [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) ---
+An intro to deadlock provided with materials, excercises, and videos. Great to start learning about deadlock.
+
 <br>
 <hr>
