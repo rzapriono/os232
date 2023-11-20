@@ -1,6 +1,19 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W08 20 L01 SCELE/Discord related
+ZCZC W08 120 L70 Studying for other courses (Quiz MPPI).
+ZCZC W08 100 L02 CLASSROOM/ZOOM meetings related (Class on tuesday)
+ZCZC W08 40 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 100 L02 CLASSROOM/ZOOM meetings related (Class on thursday)
+ZCZC W08 60 L05 Quiz related including studying
+ZCZC W08 120 L09 Assignment in General (Reading assignment)
+ZCZC W08 180 L18 Assignment #08
+ZCZC W08 45 L22 Linux CLI including tar, etc.
+ZCZC W08 120 L73 Gaming including Board Games (Efootball).
+ZCZC W08 20 L43 TXT/myrank.txt related, including peer review.
+ZCZC W08 20 L41 TXT/mylog.txt related.
+ZCZC W08 15 L01 SCELE/Discord related
 ZCZC W07 10 L01 SCELE/Discord related
 ZCZC W07 15 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related (Class on tuesday)

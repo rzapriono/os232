@@ -47,5 +47,11 @@ This website explains semaphores. It also explains how wait and signal operation
 * [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) ---
 An intro to deadlock provided with materials, excercises, and videos. Great to start learning about deadlock.
 
+* [Kernotex Youtube LFS 11.2 playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ) ---
+This playlist of videos is the one you need to refer when doing week 08 assignment. Very clearly explained and shown, just make sure you follow through all the instructions in the videos.
+
+* [Shortest Job First (SJF): Preemptive, Non-Preemptive Example](https://www.guru99.com/shortest-job-first-sjf-scheduling.html) ---
+This website provides explanation about shortest job first scheduling. It explains with some picture to help us understand.
+
 <br>
 <hr>
